@@ -1,0 +1,5 @@
+{
+  "name": "圆内定弦定角模型动画",
+  "description": "“定弦定角”（圆周角定理）几何模型的交互式可视化，包含 AI 辅助的数学解释。",
+  "requestFramePermissions": []
+}
